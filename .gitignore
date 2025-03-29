@@ -1,0 +1,6 @@
+UserManagementAPI/bin/
+UserManagementAPI/obj/
+UserManagementAPITest/bin/
+UserManagementAPITest/obj/
+*.user
+*.suo
