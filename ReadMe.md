@@ -1,5 +1,5 @@
-To ensure the required .NET 9.0.202 version is installed:
-- If not kindly use the sdk from DotNet9.0.202SDK folder.
+Please ensure the required .NET 9.0.202 version is installed:
+- If not kindly download and install from https://dotnet.microsoft.com/en-us/download.
 
 Third Party Package:
 - No need to install manually, added a nuget.config which will install automatically on build
